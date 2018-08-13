@@ -1,5 +1,5 @@
 # Home
-
+[index](index.md)
 <details><summary>ghpages howto</summary>
 ## Welcome to GitHub Pages
 
