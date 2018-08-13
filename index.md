@@ -2,4 +2,4 @@
 title: home
 ---
 
-Welcome Home, world!
+This is the index!
